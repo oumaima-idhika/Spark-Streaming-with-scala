@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/spark/IdeaProjects/lab1/target/scala-2.12/lab1_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/spark/IdeaProjects/lab1/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/easylearn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/spark/IdeaProjects/lab1/target/scala-2.12/classes/com/easylearn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/easylearn/obs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/spark/IdeaProjects/lab1/target/scala-2.12/classes/com/easylearn/obs[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/easylearn/obs/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/spark/IdeaProjects/lab1/target/scala-2.12/classes/com/easylearn/obs/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/easylearn/obs/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/spark/IdeaProjects/lab1/target/scala-2.12/classes/com/easylearn/obs/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
